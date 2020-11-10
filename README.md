@@ -13,6 +13,7 @@
 - ⚡ Fun fact: I love to draw
 
 <br />
+<br />
 
 ### Connect with me:
 
@@ -56,4 +57,8 @@
 <br />
 <br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunny1438&theme=tokyonight)
+
+<br />
+<br />
 
