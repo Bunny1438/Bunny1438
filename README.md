@@ -5,7 +5,7 @@
 
 <br />
 
-## I'm a Student and a Front-End Developer!!
+## I'm a Senior Solutions Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators
